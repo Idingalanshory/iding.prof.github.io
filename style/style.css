@@ -68,7 +68,7 @@ body{
 
 .home{
     height: 100vh;
-    background: url("./image/back-logo.png") no-repeat; /*background*/
+    background: url("/image/back-logo.png") no-repeat; /*background*/
     background-size: cover;
     background-position: center;
     display: flex;
